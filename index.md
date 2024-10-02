@@ -1,16 +1,30 @@
+
+Voici le code qui se termine exactement là où tu le souhaites, avec la bannière fixe sur le côté gauche et le contenu principal, y compris le titre et la barre de navigation :
+
 ---
 layout: default
 title: "Accueil"
 ---
-<div style="position: fixed; top: 0; left: 0; width: 200px; height: 100vh; background-image: url('thelastofus1.jpg');">
+
+<!-- Bannière avec une image en arrière-plan fixe à gauche -->
+<div style="position: fixed; top: 0; left: 0; width: 200px; height: 100vh; background-image: url('assets/thelastofus1.jpeg'); background-size: cover; background-position: center;">
 </div>
 
-<div style="background-color: #8A9A5B; padding: 20px; text-align: center; color: white;">
-    <h1>L'univers de The Last of Us </h1>
+<!-- Contenu principal avec un fond vert, titre et navigation -->
+<div style="margin-left: 220px; padding: 20px;">
+    <div style="background-color: #8A9A5B; padding: 20px; text-align: center; color: white;">
+        <h1>L'univers de The Last of Us</h1>
+    </div>
+
+    <!-- Barre de navigation centrée -->
+    <nav style="text-align: center; margin-top: 20px;">
+        [Jeux Vidéo](jeuxvideo.md) | 
+        [Séries](serie.md) | 
+        [Personnages](personnages.md) | 
+        [Scènes](scenes.md) | 
+        [Prix](prix.md)
+    </nav>
 </div>
-
-[Jeux Vidéo](jeuxvideo.md) | [Séries](serie.md) | [Personnages](personnages.md) | [Scènes](scenes.md) | [Prix](prix.md)
-
 ---
 
 # L'univers de The Last of Us
