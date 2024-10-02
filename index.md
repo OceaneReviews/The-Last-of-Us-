@@ -2,7 +2,7 @@
 layout: default
 title: "Accueil"
 ---
-<div style="position: fixed; top: 0; left: 0; width: 200px; height: 100vh; background-image: url('thelastofus1.jpeg');">
+<div style="position: fixed; top: 0; left: 0; width: 200px; height: 100vh; background-image: url('thelastofus1.jpg');">
 </div>
 
 <div style="background-color: #8A9A5B; padding: 20px; text-align: center; color: white;">
