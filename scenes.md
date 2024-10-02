@@ -17,10 +17,16 @@ title: "Accueil"
 
 ## Le jeu vidéo The Last of Us part 2 est mon préféré et ce, de bien loin, ainsi, la plupart des scènes montrées ci-dessous seront extraites de ce deuxième volume.
 
-- Le zoo
+1. Ma scène préférée, tous volumes confondus, est l'anniversaire d'Ellie fêté dans un musée où pouvait être observé des fossiles de dinosaures mais également l'histoire spatiale, deux thèmes qu'adorent Ellie.
 
-- La conversation finale avec Joel Miller
+![Musée](assets/zoo.jpg)
 
-- Rencontre avec girafe
+![Space](assets/space.jpg)
 
-- Scène guitare Ellie et Dina 
+2. Egalement dans ce second volume, une de mes scènes préférées est une discussion émouvante entre Ellie et Joel.
+
+![Convo](assets/conversation.jpg)
+
+3. Sans surprise, également issue de *The Last of Us Part II* : Ellie qui joue de la guitare à Dina, sa petite-amie.
+
+![Guitare](assets/guitare.jpg)
