@@ -11,12 +11,13 @@ title: "Accueil"
 
 ---
 
-# Les personnages: Jeux vidéo VS Série
+# Les personnages: Série VS Jeux vidéo
 
 ## Différences physiques entre les personnages
 
 ### Liste de personnages:
-#### Tous les personnages suivants sont issus de The Last of Us (2013) car les personnages de The Last of Us Part 2 n'ont pas encore été adapté.
+
+Tous les personnages suivants sont issus de *The Last of Us (2013)* car les personnages de *The Last of Us Part II* n'ont pas encore été adapté. Vous pouvez donc voir un comparatif visuel entre **la série HBO** *The Last of Us* (2023) et le **jeu vidéo** *The Last of Us Part I* _(le remake modernisé et adapté aux appareils actuels de *The Last of Us* (2013) )_
 
 __Joel Miller__
 
