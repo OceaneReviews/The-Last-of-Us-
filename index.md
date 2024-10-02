@@ -1,3 +1,7 @@
+[Jeux Vidéo](jeuxvideo.md) | [Séries](serie.md) | [Personnages](personnages.md) | [Scènes](scenes.md) | [Prix](prix.md)
+
+---
+
 # L'univers de The Last of Us
 ## The Last of Us
 ### La franchise The Last of Us 
