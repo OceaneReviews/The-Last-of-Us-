@@ -1,17 +1,9 @@
-<!-- Bannière The Last of Us -->
-<div style="position: relative; width: 100%; height: 256px;">
-    <img src="assets/banner_last_of_us.png" alt="Bannière The Last of Us" style="width: 100%; height: 100%; object-fit: cover;">
+<div style="position:fixed; top: 0; left:0; width: 200px; height: 100vh; background-image: url('thelastofus.jpg');">
 </div>
 
 <nav style="margin-top: 20px; text-align: center;">
-    [Jeux Vidéo](jeuxvideo.md) | [Séries](serie.md) | [Personnages](personnages.md) | [Scènes](scenes.md) | [Prix](prix.md)
-</nav>
-
-
-## Navigation
-
 [Jeux Vidéo](jeuxvideo.md) | [Séries](serie.md) | [Personnages](personnages.md) | [Scènes](scenes.md) | [Prix](prix.md)
-
+</nav>
 ---
 
 # L'univers de The Last of Us
