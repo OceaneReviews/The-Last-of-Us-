@@ -23,7 +23,7 @@ Il doit cette fois traverser les Etats-Unis afin de livrer sa marchandise. Une m
 
 >Ce premier volume est centré autour de l'amour et des relations humaines, notamment entre nos deux protagonistes.
 
-## _The Last of Us Part 2_ (2020)
+## _The Last of Us Part II_ (2020)
 Sans trop en dire, ce second volume est la suite directe du premier et suit cette fois une Ellie Williams adulte, deuteragoniste du premier volume. Cette dernière doit faire face à un nouvel ennemi et traverse le pays pour le retrouver. 
 
 >Certaines personnes estiment que ce second volume est centré autour du cycle de la vengeance mais j'estime personnellement qu'il est centré autour des regrets et de l'acceptation de ces derniers.
