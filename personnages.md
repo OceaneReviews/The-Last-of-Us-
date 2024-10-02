@@ -10,6 +10,7 @@ title: "Accueil"
 </div>
 
 [Accueil](accueil.md) | [Jeux Vidéo](jeuxvideo.md) | [Séries](serie.md) | [Personnages](personnages.md) | [Scènes](scenes.md) | [Prix](prix.md)
+
 ---
 
 # Les personnages: Jeux vidéo VS Série
