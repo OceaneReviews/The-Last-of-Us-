@@ -19,27 +19,27 @@ title: "Accueil"
 
 Tous les personnages suivants sont issus de *The Last of Us (2013)* car les personnages de *The Last of Us Part II* n'ont pas encore été adapté. Vous pouvez donc voir un comparatif visuel entre **la série HBO** *The Last of Us* (2023) et le **jeu vidéo** *The Last of Us Part I* _(le remake modernisé et adapté aux appareils actuels de _The Last of Us_ (2013) )_
 
-__Joel Miller__
+### __Joel Miller__
 
 ![Joel](assets/joel.jpg)
 
-__Ellie Williams__
+### __Ellie Williams__
 
 ![Ellie](assets/ellie.jpg)
 
-__Tess Servopoulos__
+### __Tess Servopoulos__
 
 ![Tess](assets/tess.jpg)
 
-__Tommy Miller__
+### __Tommy Miller__
 
 ![Tommy](assets/tommy.jpg)
 
-__Maria Miller__
+### __Maria Miller__
 
 ![Maria](assets/maria.jpg)
 
-__David__
+### __David__
 
 ![David](assets/david.jpg)
 
