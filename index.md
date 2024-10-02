@@ -4,6 +4,9 @@ title: "Accueil"
 ---
 <div style="position: fixed; top: 0; left: 0; width: 180px; height: 100vh; background-image: url('thelastofus1.jpg');">
 </div>
+<div style="position: fixed; top: 0; right: 0; width: 180px; height: 100vh; background-image: url('thelastofus2.jpg');">
+</div>
+
 
 <div style="background-color: #8A9A5B; padding: 20px; text-align: center; color: white;">
     <h1>L'univers de The Last of Us </h1>
@@ -14,6 +17,7 @@ title: "Accueil"
 ---
 
 # L'univers de _The Last of Us_
+                                
 ## The Last of Us
 
 ### La franchise _The Last of Us_ 
