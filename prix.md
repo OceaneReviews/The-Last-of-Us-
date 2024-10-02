@@ -7,16 +7,16 @@ title: "Accueil"
     <h1>L'univers de The Last of Us </h1>
 </div>
 
-[Accueil](index.md) | [Jeux Vidéo](jeuxvideo.md) | [Séries](serie.md) | [Personnages](personnages.md) | [Scènes](scenes.md) | [Prix](prix.md)
+[Accueil](index.md) | [Jeux Vidéo](jeuxvideo.md) | [Série](serie.md) | [Personnages](personnages.md) | [Scènes](scenes.md) | [Prix](prix.md)
 
 ---
 
-# Prix gagnés
+# Prix gagnés 🏆
 Cet univers, ludique ou cinématographique, a d'autant plus de reconnaissance de par ses prix gagnés.
 
-## Récompenses jeux vidéo.
+## Récompenses jeux vidéo 🎮
 
-| **Titre**                          | **Année** | **Récompenses**                                               |
+| **Titre**                          | **Année** | **Récompenses** 🏆                                           |
 |------------------------------------|-----------|--------------------------------------------------------------|
 | **The Last of Us**                 | 2013      | - Jeu de l'Année (DICE Awards)                              |
 |                                    |           | - Meilleur Jeu (Golden Joystick Awards)                     |
@@ -35,7 +35,7 @@ Cet univers, ludique ou cinématographique, a d'autant plus de reconnaissance de
 |                                    |           | - Prix du Public (DICE Awards)                              |
 
 
-## Récompense série
+## Récompense série 🎬
 
 | **Titre**                          | **Année** | **Récompenses**                                               |
 |------------------------------------|-----------|--------------------------------------------------------------|
