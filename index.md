@@ -1,4 +1,5 @@
-![Bannière de The Last of Us](banner.jpg)
+![Bannière de The Last of Us](assets/banner.jpg)
+
 ## Navigation
 
 [Jeux Vidéo](jeuxvideo.md) | [Séries](serie.md) | [Personnages](personnages.md) | [Scènes](scenes.md) | [Prix](prix.md)
