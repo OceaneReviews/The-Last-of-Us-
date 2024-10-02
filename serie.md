@@ -2,19 +2,19 @@
 layout: default
 title: "Accueil"
 ---
-<div style="position: fixed; top: 0; left: 0; width: 180px; height: 100vh; background-image: url('thelastofus1.jpg');">
-</div>
 
 <div style="background-color: #8A9A5B; padding: 20px; text-align: center; color: white;">
     <h1>L'univers de The Last of Us </h1>
 </div>
 
-[Accueil](accueil.md) | [Jeux Vidéo](jeuxvideo.md) | [Séries](serie.md) | [Personnages](personnages.md) | [Scènes](scenes.md) | [Prix](prix.md)
+[Accueil](index.md) | [Jeux Vidéo](jeuxvideo.md) | [Séries](serie.md) | [Personnages](personnages.md) | [Scènes](scenes.md) | [Prix](prix.md)
 
 ---
 
 
 # The Last of Us : la série
+
+![Road](assets/road.jpg)
 
 ## Résumé
 La série comporte actuellement une seule saison de 9 épisodes adaptant le premier jeu vidéo de 2013. Une seconde saison est en tournage et adaptera le second volume dans la saison 2 et 3. Cette première saison reste assez fidèle au jeu. Nous suivons également Joel Miller, contrebandier, qui doit accompagner Ellie au travers des Etats-Unis.
