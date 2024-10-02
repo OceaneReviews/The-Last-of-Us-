@@ -3,13 +3,12 @@ layout: default
 title: "Accueil"
 ---
 
-<!-- Bannière avec une image en haut de la page -->
-<div style="position: fixed; top: 10; left: 0; width: 100%; height: 200px; background-image: url('thelastofus.jpg'); background-size: cover; background-position: center; z-index: 1000;">
+<div style="background-color: #8A9A5B; padding: 20px; text-align: center; color: white;">
+    <h1>L'univers de The Last of Us </h1>
 </div>
 
-<div style="padding-top: 220px; text-align: center;">
     [Jeux Vidéo](jeuxvideo.md) | [Séries](serie.md) | [Personnages](personnages.md) | [Scènes](scenes.md) | [Prix](prix.md)
-</div>
+
 
 ---
 
