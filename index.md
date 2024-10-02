@@ -1,9 +1,10 @@
-<div style="position:fixed; top: 0; left:0; width: 200px; height: 100vh; background-image: url('thelastofus.jpg');">
+<div style="position: fixed; top: 0; left: 0; width: 100%; height: 200px; background-image: url('assets/thelastofus.jpg'); background-size: cover; background-position: center; z-index: 1000;">
 </div>
 
-<nav style="margin-top: 20px; text-align: center;">
-[Jeux Vidéo](jeuxvideo.md) | [Séries](serie.md) | [Personnages](personnages.md) | [Scènes](scenes.md) | [Prix](prix.md)
-</nav>
+<div style="padding-top: 220px;">
+    <nav style="margin-top: 20px; text-align: center;">
+        [Jeux Vidéo](jeuxvideo.md) | [Séries](serie.md) | [Personnages](personnages.md) | [Scènes](scenes.md) | [Prix](prix.md)
+    </nav>
 ---
 
 # L'univers de The Last of Us
