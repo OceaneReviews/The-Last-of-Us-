@@ -18,33 +18,31 @@ title: "Accueil"
 ## Différences physiques entre les personnages
 
 ### Liste de personnages:
+#### Tous les personnages suivants sont issus de The Last of Us (2013) car les personnages de The Last of Us Part 2 n'ont pas encore été adapté.
+
 __Joel Miller__
-- Jeu vidéo
-- Série
+
+![Joel](assets/joel.jpg)
 
 __Ellie Williams__
-- Jeu vidéo
-- Série
+
+![Ellie](assets/ellie.jpg)
 
 __Tess Servopoulos__
-- Jeu vidéo
-- Série
-- 
+
+![Tess](assets/tess.jpg)
+
 __Tommy Miller__
-- Jeu vidéo
-- Série
+
+![Tommy](assets/tommy.jpg)
 
 __Maria Miller__
-- Jeu vidéo
-- Série
+
+![Maria](assets/maria.jpg)
 
 __David__
-- Jeu vidéo
-- Série
 
-__Dina__
-- Jeu vidéo
-- Série
+![David](assets/david.jpg)
 
 
 
