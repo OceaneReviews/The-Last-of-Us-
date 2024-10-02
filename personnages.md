@@ -11,6 +11,10 @@ __Ellie Williams__
 - Jeu vidéo
 - Série
 
+__Tess Servopoulos__
+- Jeu vidéo
+- Série
+- 
 __Tommy Miller__
 - Jeu vidéo
 - Série
