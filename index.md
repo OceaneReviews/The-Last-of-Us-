@@ -7,8 +7,7 @@ title: "Accueil"
     <h1>L'univers de The Last of Us </h1>
 </div>
 
-    [Jeux Vidéo](jeuxvideo.md) | [Séries](serie.md) | [Personnages](personnages.md) | [Scènes](scenes.md) | [Prix](prix.md)
-
+[Jeux Vidéo](jeuxvideo.md) | [Séries](serie.md) | [Personnages](personnages.md) | [Scènes](scenes.md) | [Prix](prix.md)
 
 ---
 
