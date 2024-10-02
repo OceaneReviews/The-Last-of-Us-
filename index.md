@@ -1,10 +1,17 @@
+---
+layout: default
+title: "Accueil"
+---
+
+<!-- Bannière avec une image en haut de la page -->
 <div style="position: fixed; top: 0; left: 0; width: 100%; height: 200px; background-image: url('assets/thelastofus.jpg'); background-size: cover; background-position: center; z-index: 1000;">
 </div>
 
-<div style="padding-top: 220px;">
-    <nav style="margin-top: 20px; text-align: center;">
-        [Jeux Vidéo](jeuxvideo.md) | [Séries](serie.md) | [Personnages](personnages.md) | [Scènes](scenes.md) | [Prix](prix.md)
-    </nav>
+<!-- Contenu principal avec un espace en haut pour la bannière -->
+<div style="padding-top: 220px; text-align: center;">
+    [Jeux Vidéo](/The-Last-of-Us-/jeuxvideo.html) | [Séries](/The-Last-of-Us-/serie.html) | [Personnages](/The-Last-of-Us-/personnages.html) | [Scènes](/The-Last-of-Us-/scenes.html) | [Prix](/The-Last-of-Us-/prix.html)
+</div>
+
 ---
 
 # L'univers de The Last of Us
