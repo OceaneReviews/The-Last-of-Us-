@@ -2,9 +2,9 @@
 layout: default
 title: "Accueil"
 ---
-<div style="position: fixed; top: 0; left: 0; width: 180px; height: 100vh; background-image: url('thelastofus1.jpg');">
+<div style="position: fixed; top: 0; left: 0; width: 150px; height: 100vh; background-image: url('thelastofus1.jpg');">
 </div>
-<div style="position: fixed; top: 0; right: 0; width: 180px; height: 100vh; background-image: url('thelastofus2.jpg');">
+<div style="position: fixed; top: 0; right: 0; width: 150px; height: 100vh; background-image: url('thelastofus2.jpg');">
 </div>
 
 
