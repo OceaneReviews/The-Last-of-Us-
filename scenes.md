@@ -13,9 +13,9 @@ title: "Accueil"
 
 # Scènes favorites
 
-## Le jeu vidéo The Last of Us Part II est mon préféré et ce, de bien loin, ainsi, la plupart des scènes montrées ci-dessous seront extraites de ce deuxième volume.
+## Le jeu vidéo _The Last of Us Part II_ est mon préféré et ce, de bien loin, ainsi, la plupart des scènes montrées ci-dessous seront extraites de ce deuxième volume.
 
-1. Ma scène préférée, tous volumes confondus, est l'anniversaire d'Ellie fêté dans un musée où pouvait être observé des fossiles de dinosaures mais également l'histoire spatiale, deux thèmes qu'adorent Ellie.
+1. Ma scène préférée, tous volumes confondus, est l'anniversaire d'Ellie fêté dans un musée où pouvait être observés des fossiles de dinosaures mais également l'histoire spatiale, deux thèmes qu'adorent Ellie.
 
 ![Musée](assets/zoo.jpg)
 
